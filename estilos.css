@@ -1,0 +1,15 @@
+.text-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 100vh;
+}
+
+.container img {
+  width: 300px; /* Ajusta el ancho deseado para las imágenes */
+  height: 200px; /* Ajusta la altura deseada para las imágenes */
+}
